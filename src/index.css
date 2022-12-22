@@ -28,6 +28,9 @@
 html::-webkit-scrollbar {
   display: none;
 }
+:root, [data-theme] {
+  background-color: #f2f4f8;
+}
 
 body {
   font-family: 'Inter', sans-serif;
